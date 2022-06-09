@@ -1,8 +1,6 @@
 # planck
 Task repo
 
-**Bioinformaticians**
-1. Dayo
-2. Arnold
-3. fadha
-4. waheed
+**Bioinformatics**
+This marks the beginning of my journey into the world of biocomputing and data science as it relates to Molecular biology.
+HackBio is giving me the headstart, and i'm proudly teamplanck.
